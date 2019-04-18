@@ -1,5 +1,7 @@
 # Django project template
 
+[![Join the chat at https://gitter.im/django-project-template/community](https://badges.gitter.im/django-project-template/community.svg)](https://gitter.im/django-project-template/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ###### python, django 
 
 Whether it be an API Development project or Web development or a hybrid this template can help you get kick-started in seconds.
@@ -38,3 +40,4 @@ There are many things that can be improved here.
 3. Down the line this base setup must to be usable for any type of django project. Maybe a script that does that?
 
 PR's are most welcome \ (•◡•) /
+
